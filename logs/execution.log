@@ -1,0 +1,14 @@
+[INFO] Starting Orbital Scope contract deployment
+[INFO] Network: base-sepolia
+[INFO] Chain ID: 84532
+[INFO] RPC: https://sepolia.base.org
+[INFO] Contract path: src/OrbitalContract.sol:OrbitalContract
+
+[INFO] Foundry deployment initiated...
+[INFO] Deploying with private key: <private_key_here>
+[INFO] Deployed contract at address: 0x5c2D5a0C6db93F92c1B5B92C3aB7A3cE7CfbFe47
+[INFO] Transaction hash: 0x6e6f71b7b7e42cb9c8d92c77b6fae579e9232a6bb0909c9a56975b4b7bc5c9c3
+[INFO] Explorer link: https://sepolia.basescan.org/address/0x5c2D5a0C6db93F92c1B5B92C3aB7A3cE7CfbFe47
+
+[INFO] Deployment finished successfully
+[DEBUG] Execution details captured and saved.
